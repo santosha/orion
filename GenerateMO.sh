@@ -1,0 +1,1 @@
+mogenerator -m Orion.xcdatamodeld/"Orion.xcdatamodel" -O ModelClasses -includem MO.h
